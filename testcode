@@ -1,0 +1,8 @@
+print ("hello world")
+sayHi = input ("say 'hi': ")
+if sayHi == "hi":
+  print ("ok bye")
+  exit ()
+else:
+  print ("wut")
+  exit ()
