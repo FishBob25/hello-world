@@ -1,2 +1,8 @@
 # hello-world
-Hi world how are you
+
+Hi!
+
+My name is Mahi and I like coding.
+GitHub seems pretty cool
+
+Ok bye
